@@ -23,6 +23,12 @@ Motor: High Torque 12 -24V DC motor 3500 - 7000rpm
 Power Source: 3 9V alkaline batteries in series
 Custom designed 3D printed structural parts
 
+
+Internal drive mechanism with spur transmission system
+![Internal Gear and driver spur assembly](https://github.com/JosephDalman/spinning-inquisitor-lightsaber/blob/3990bc9047a3e4db5c64b1099c9115353fb4e984/Ring%20gear%20and%20spur%20drive%20system%20.png)
+
+
+
 What I Learned
 Relationship between torque, rotational speed, and mechanical load
 Electrical current requirements for motor and LED operation

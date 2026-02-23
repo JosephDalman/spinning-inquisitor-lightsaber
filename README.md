@@ -2,7 +2,7 @@
 Motorized spinning Inquisitor lightsaber built with Arduino, custom 3d printed parts, and addressable LEDs. 
 
 #Demo
-
+![light up spinning shot](https://github.com/JosephDalman/spinning-inquisitor-lightsaber/blob/87917d64b4319f9299aa28a70e8a22b43614257a/LightupSpin.png)
 
 Overview
 This project is a motorized spinning Inquisitor-style lightsaber built using Arduino control, custom 3D printed mechanical components, and addressable LED technology.

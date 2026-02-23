@@ -43,6 +43,12 @@ Files Included
 /stl – Printable mechanical components
 /code – Embedded control source code
 
+
+
+*Prototype testing setup* 
+
+![Spinning without lights](https://github.com/JosephDalman/spinning-inquisitor-lightsaber/blob/16a2d6f50394260463afe99c2e30dc59415a063a/SpinV2.png)
+
 Future Improvements
 Consolidated master CAD source file
 Refined wiring documentation
